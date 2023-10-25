@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+body {
+    font-family: Alata, sans-serif;
+    text-align: center;
+    background-color: #D6D46D;
+    color: #F5F5F5;
+}
+.container {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #B5CB99;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #B2533E;
+    box-shadow: 100px;
+
+}
+
+.keterangan {
+    background-color: #B2533E;
+    border: 1px solid #B5CB99;
+    border-radius: 10px;
+    width: 690px;
+    align-items: center;
+    padding: 20px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+hr {
+    color: white;
+}
+h1 {
+    font-size: 50px;
+}
